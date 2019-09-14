@@ -1,0 +1,7 @@
+C:\Users\Thomas\iCloudDrive\Documents\C#\Assignments\Assignment 01\Assignment 01\bin\Debug\Assignment 01.exe.config
+C:\Users\Thomas\iCloudDrive\Documents\C#\Assignments\Assignment 01\Assignment 01\bin\Debug\Assignment 01.exe
+C:\Users\Thomas\iCloudDrive\Documents\C#\Assignments\Assignment 01\Assignment 01\bin\Debug\Assignment 01.pdb
+C:\Users\Thomas\iCloudDrive\Documents\C#\Assignments\Assignment 01\Assignment 01\obj\Debug\Assignment 01.csprojAssemblyReference.cache
+C:\Users\Thomas\iCloudDrive\Documents\C#\Assignments\Assignment 01\Assignment 01\obj\Debug\Assignment 01.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\iCloudDrive\Documents\C#\Assignments\Assignment 01\Assignment 01\obj\Debug\Assignment 01.exe
+C:\Users\Thomas\iCloudDrive\Documents\C#\Assignments\Assignment 01\Assignment 01\obj\Debug\Assignment 01.pdb
